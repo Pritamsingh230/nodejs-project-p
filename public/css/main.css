@@ -42,7 +42,7 @@ main {
 
 .main-header__item a {
   text-decoration: none;
-  color: white;
+  color: #04f700;
 }
 
 .main-header__item a:hover,
@@ -104,5 +104,5 @@ main {
 .btn:hover,
 .btn:active {
   background-color: #00695c;
-  color: white;
+  color: #7ede7c;
 }
